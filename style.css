@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/*
+Theme Name: flipcart Child
+Theme URI: http://bit.ly/opalwp
+Author: HyperCoder
+Author URI: http://hypercoder.co
+Template: flipcart
+Description: The Flipcart theme for WordPress by ThemeLexus.Com and Based On <a href="http://bit.ly/opalwp">Opal Framework</a> is a fully responsive theme that looks great on any device. That's the best for any kind of online shoping sites. <a href="http://bit.ly/opalwp">Follow us on Themeforest to receive newest updates</a>
+Version: 1.0 Updated 20-Jan-2016
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-columns, three-columns, left-sidebar, right-sidebar, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: flipcart
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+/*!
+ * Bootstrap v3.3.5 (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */ 
+
+
+.opal-header-top-v2 > div {
+    height: 105px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.search-box.search-box-simple, 
+.opal-topcart{
+	margin-top: 20px;
+}
