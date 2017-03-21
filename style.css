@@ -32,3 +32,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .opal-topcart{
 	margin-top: 20px;
 }
+
+#opal-breadscrumb {
+	background: url(../img/bg-breadcrumb.png) no-repeat center center !important;
+}
